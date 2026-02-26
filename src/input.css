@@ -8,4 +8,8 @@
     background-size: cover;
     background-position: center;
 }
-
+.sec-bg{
+    background-image: url(./Yunus-Page/Yunus-Images/Group\ 1000004420\ \(1\).png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
