@@ -1,1 +1,4 @@
 @import "tailwindcss";
+.bg-1 {
+    background-image: url(./jalilov/unsplash_G7sE2S4Lab4.png);
+}
