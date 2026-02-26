@@ -23,3 +23,8 @@
     background-size: cover;
     background-repeat: no-repeat;
 }
+.last-bg{
+    background-image: url(./Yunus-Page/Yunus-Images/Rectangle\ 355.png);
+    background-repeat: no-repeat;
+    background-position: center;
+}
