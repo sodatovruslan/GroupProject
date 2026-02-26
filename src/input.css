@@ -2,3 +2,13 @@
 .bg-1 {
     background-image: url(./jalilov/unsplash_G7sE2S4Lab4.png);
 }
+
+.first-bg{
+    width: 100%;
+    height: 950px;
+    background-image: url(./Yunus-Page/Yunus-Images/First-Bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
